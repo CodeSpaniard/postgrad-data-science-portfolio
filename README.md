@@ -18,7 +18,9 @@ This work was completed as part of the postgraduate program in Data Science and 
 - `Ensemble Techniques/` – Boosting, Bagging, Random Forest, and hands-on project  
 - `Model Tuning/` – Feature engineering, Machine Learning pipeline, Hyperparameter tuning, and hands-on project  
 - `Unsupervised Learning/` – K-means clustering, Hierarchical Clustering, Principal Component Analysis, Association Rule, hands-on project  
-- `Hackathons/` – Loan default and restaurant turnover predictions  
+- `Hackathons/` – Loan default and restaurant turnover predictions
+- **Miscellaneous files** – Found in the root directory
+
 
 ## 🧠 Skills & Tools
 
