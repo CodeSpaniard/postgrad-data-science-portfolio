@@ -30,4 +30,4 @@ This work was completed as part of the postgraduate program in Data Science and 
 
 ## 📬 Connect
 
-Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/arielsama/) or visit my Gravatar profile ().
+Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/arielsama/) or visit my Gravatar profile (https://gravatar.com/inquisitivelyduckb602562deb).
